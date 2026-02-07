@@ -1,4 +1,3 @@
-
 # VaultNode: Distributed ledger-enabled VaultNode clusters ensure high-availability through adaptive load-balancing and self-healing redundancy System Implementation
 > Advanced php solution leveraging modern architecture patterns and cutting-edge technology.
 
